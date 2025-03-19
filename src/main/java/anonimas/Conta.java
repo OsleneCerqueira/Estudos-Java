@@ -1,4 +1,4 @@
-package aula_1.anonimas;
+package anonimas;
 
 //void não tem retorno
 

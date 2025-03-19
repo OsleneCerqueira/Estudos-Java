@@ -1,4 +1,4 @@
-package aula_1.interfaces;
+package interfaces;
 
 public class TesteInterface {
     public static void main(String[] args){

@@ -1,4 +1,4 @@
-package aula_1.abstratas;
+package abstratas;
 
 public abstract class Conta {
     private Double saldo;

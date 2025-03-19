@@ -1,4 +1,4 @@
-package aula_1.abstratas;
+package abstratas;
 
 public class TesteClasseAbstrata {
     public static  void main(String[] args){

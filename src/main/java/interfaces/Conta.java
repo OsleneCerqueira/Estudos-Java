@@ -1,4 +1,4 @@
-package aula_1.interfaces;
+package interfaces;
 
 public interface Conta {
     void depositar (Double valor);

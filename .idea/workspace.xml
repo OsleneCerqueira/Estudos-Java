@@ -8,10 +8,22 @@
       <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/aula_1/abstratas/Conta.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/aula_1/abstratas/ContaCorrente.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/aula_1/abstratas/ContaPoupanca.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/aula_1/abstratas/TesteClasseAbstrata.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/aula_1/anonimas/CarteiraContas.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/aula_1/anonimas/Conta.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/aula_1/anonimas/TesteClasseAnonima.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/aula_1/interfaces/Conta.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/aula_1/interfaces/ContaCorrente.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/aula_1/interfaces/ContaPoupanca.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/aula_1/interfaces/TesteInterface.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -20,6 +32,13 @@
   </component>
   <component name="CodeStyleSettingsInfer">
     <option name="done" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -31,7 +50,9 @@
     <option name="version" value="2" />
   </component>
   <component name="ProjectId" id="2uVZMjvj0dsq8nbXkYa7uPWVFax" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -43,7 +64,8 @@
     "last_opened_file_path": "C:/Users/Oslene Cerqueira/IdeaProjects/bootcamp_matera",
     "project.structure.last.edited": "Modules",
     "project.structure.proportion": "0.0",
-    "project.structure.side.proportion": "0.0"
+    "project.structure.side.proportion": "0.0",
+    "settings.editor.selected.configurable": "configurable.group.appearance"
   }
 }]]></component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />

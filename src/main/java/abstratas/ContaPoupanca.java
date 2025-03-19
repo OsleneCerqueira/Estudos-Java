@@ -1,4 +1,4 @@
-package aula_1.abstratas;
+package abstratas;
 
 public class ContaPoupanca extends Conta{
     @Override

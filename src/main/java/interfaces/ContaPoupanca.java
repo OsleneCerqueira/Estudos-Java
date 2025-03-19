@@ -1,4 +1,4 @@
-package aula_1.interfaces;
+package interfaces;
 
 public class ContaPoupanca implements Conta {
     private Double saldo = 100.00;
