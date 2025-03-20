@@ -55,7 +55,20 @@
       <recent name="" />
     </key>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Application.TesteOptional">
+    <configuration name="TesteEqualsEIgualIgual" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="equalsEIgualIgual.TesteEqualsEIgualIgual" />
+      <module name="Estudos_Java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="equalsEIgualIgual.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="TesteMap" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="collection.Map.TesteMap" />
       <module name="Estudos_Java" />
@@ -69,8 +82,23 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="TesteOptional" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="optional.TesteOptional" />
+      <module name="Estudos_Java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="optional.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.TesteOptional" />
+        <item itemvalue="Application.TesteEqualsEIgualIgual" />
         <item itemvalue="Application.TesteMap" />
       </list>
     </recent_temporary>
