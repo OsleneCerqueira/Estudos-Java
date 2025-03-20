@@ -4,12 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6b0580e8-4b35-497e-8a99-da71a79a95c2" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/modificador/Conta.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/modificador/ContaCorrente.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/modificador/TesteFinal.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="6b0580e8-4b35-497e-8a99-da71a79a95c2" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -58,39 +53,13 @@
       <recent name="" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.TestePessoa">
-    <configuration name="TesteEqualsEIgualIgual" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="equalsEIgualIgual.TesteEqualsEIgualIgual" />
-      <module name="Estudos_Java" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="equalsEIgualIgual.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.exemplosLoaclDate">
     <configuration name="TesteFinal" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="modificador.TesteFinal" />
       <module name="Estudos_Java" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="modificador.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="TesteMap" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="collection.Map.TesteMap" />
-      <module name="Estudos_Java" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="collection.Map.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -124,13 +93,39 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="exemplosFormatarDatas" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="localdate.exemplosFormatarDatas" />
+      <module name="Estudos_Java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="localdate.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="exemplosLoaclDate" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="localdate.exemplosLoaclDate" />
+      <module name="Estudos_Java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="localdate.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.exemplosLoaclDate" />
+        <item itemvalue="Application.exemplosFormatarDatas" />
         <item itemvalue="Application.TestePessoa" />
         <item itemvalue="Application.TesteFinal" />
         <item itemvalue="Application.TesteOptional" />
-        <item itemvalue="Application.TesteEqualsEIgualIgual" />
-        <item itemvalue="Application.TesteMap" />
       </list>
     </recent_temporary>
   </component>
